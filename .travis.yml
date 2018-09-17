@@ -1,0 +1,4 @@
+language: java
+script:
+ - cd tutorial1
+ - mvn clean install
